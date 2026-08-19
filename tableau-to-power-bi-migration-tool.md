@@ -5,9 +5,9 @@
 [![Microsoft Partner](https://img.shields.io/badge/Microsoft-ECIF%20Partner-green.svg)](https://innovationalofficesolution.com/Tableau-To-PowerBI/)
 [![Accuracy](https://img.shields.io/badge/Conversion%20Accuracy-75%25%20to%2090%25-success.svg)](https://innovationalofficesolution.com/Tableau-To-PowerBI/)
 
-> **The world’s first GenAI-powered automation engine built to convert Tableau to Power BI in 6 to 60 minutes with 75% to 90% automated accuracy.** 
+> **GenAI-powered automation engine built to convert Tableau to Power BI with 75% to 90% automated accuracy.** 
 
-Developed by **Office Solution AI Labs**, **Pulse Convert** eliminates months of manual redevelopment, high consulting expenses, and data logic loss. Powered by our proprietary in-house LLM (**"Pulse"**), the engine interprets Tableau workbooks (`.twb`/`.twbx`) and converts them into production-ready Power BI reports (`.pbix`).
+Developed by **[Office Solution AI Labs](https://innovationalofficesolution.com/)**, **[Pulse Convert](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)** eliminates months of manual redevelopment, high consulting expenses, and data logic loss. Powered by our proprietary in-house LLM (**"Pulse Convert"**), the engine interprets Tableau workbooks (`.twb`/`.twbx`) and converts them into production-ready Power BI reports (`.pbix`).
 
 ---
 
@@ -48,20 +48,6 @@ Our automated workflow requires zero technical manual setup:
 3. **Download & Publish:** Download fully functional Power BI (`.pbix`) files with **75% to 90% automated accuracy**, ready for Microsoft Power BI Service or Microsoft Fabric.
 
 ---
-
-## 🎯 High-Volume Search Keywords Covered
-
-This repository and tool address key industry searches around BI modernization:
-* **tableau to power bi migration**
-* **convert tableau to power bi**
-* **tableau to power bi**
-* **tableau to power bi migration approach**
-* **migrate from tableau to power bi**
-* **migration from tableau to power bi**
-* **How to migrate Tableau to Power BI**
-
----
-
 ## 📊 Technical Comparison: Pulse Convert vs. Manual Rebuilds
 
 | Metric / Feature | Manual BI Migration | Generic Conversion Tools | Pulse Convert Engine |
@@ -76,7 +62,7 @@ This repository and tool address key industry searches around BI modernization:
 
 ## 🎁 Claim Your Free 5-Dashboard Proof of Concept (POC)
 
-As a certified **Microsoft ECIF (Engineering Customer Investment Fund) Partner**, Office Solution AI Labs offers enterprise clients a **Free 5-Dashboard POC** with zero liability:
+As a certified **Microsoft ECIF (Engineering Customer Investment Fund) Partner**, Office Solution AI Labs offers enterprise clients a **(Free 5-Dashboard POC) [**https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview**]** with zero liability:
 
 * ✅ Test on your real production Tableau workbooks (`.twb`/`.twbx`).
 * ✅ Test your actual data models and complex calculation logic.
@@ -84,12 +70,11 @@ As a certified **Microsoft ECIF (Engineering Customer Investment Fund) Partner**
 
 ---
 
-## 🔗 Get Started & Call to Action (CTA)
 
 Ready to accelerate your **migration from tableau to power bi** and slash your licensing total cost of ownership (TCO)?
 
 👉 **Start Your Free Migration POC Now:**  
-[**https://innovationalofficesolution.com/Tableau-To-PowerBI/**](https://innovationalofficesolution.com/Tableau-To-PowerBI/)
+[**https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview**]()
 
 📧 **Direct Contact / Enterprise Inquiry:** `admin@innovationalofficesolution.com`  
 🏢 **Developer:** Office Solution AI Labs  

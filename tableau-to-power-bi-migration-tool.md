@@ -7,7 +7,7 @@
 
 > **GenAI-powered automation engine built to convert Tableau to Power BI with 75% to 90% automated accuracy.** 
 
-Developed by **[Office Solution AI Labs](https://innovationalofficesolution.com/)**, **[Pulse Convert](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)** eliminates months of manual redevelopment, high consulting expenses, and data logic loss. Powered by our proprietary in-house LLM  **[Pulse Convert](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)**, the engine interprets Tableau workbooks (`.twb`/`.twbx`) and converts them into production-ready Power BI reports (`.pbix`).
+Developed by **[Office Solution AI Labs](https://innovationalofficesolution.com/)**, **[Pulse Convert](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)** eliminates months of manual redevelopment, high consulting expenses, and data logic loss. Powered by our proprietary in-house LLM  Pulse Convert, the engine interprets Tableau workbooks (`.twb`/`.twbx`) and converts them into production-ready Power BI reports (`.pbix`).
 
 ---
 
@@ -77,10 +77,10 @@ Ready to accelerate your **migration from tableau to power bi** and slash your l
 [**https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview**]()
 
 📧 **Direct Contact / Enterprise Inquiry:** `admin@innovationalofficesolution.com`  
-🏢 **Developer:** Office Solution AI Labs  
+ 
 
 ---
 
 <p align="center">
-  <i>Modernize your enterprise analytics stack with Pulse Convert — the only Microsoft AppSource listed GenAI tool designed to automate Tableau to Power BI conversion.</i>
+  <i>Modernize your enterprise analytics stack with Pulse Convert — Microsoft AppSource listed GenAI tool designed to automate Tableau to Power BI conversion.</i>
 </p>

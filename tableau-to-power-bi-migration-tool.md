@@ -7,7 +7,7 @@
 
 > **GenAI-powered automation engine built to convert Tableau to Power BI with 75% to 90% automated accuracy.** 
 
-Developed by **[Office Solution AI Labs](https://innovationalofficesolution.com/)**, **[Pulse Convert](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)** eliminates months of manual redevelopment, high consulting expenses, and data logic loss. Powered by our proprietary in-house LLM (**"Pulse Convert"**), the engine interprets Tableau workbooks (`.twb`/`.twbx`) and converts them into production-ready Power BI reports (`.pbix`).
+Developed by **[Office Solution AI Labs](https://innovationalofficesolution.com/)**, **[Pulse Convert](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)** eliminates months of manual redevelopment, high consulting expenses, and data logic loss. Powered by our proprietary in-house LLM  **[Pulse Convert](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)**, the engine interprets Tableau workbooks (`.twb`/`.twbx`) and converts them into production-ready Power BI reports (`.pbix`).
 
 ---
 
@@ -62,7 +62,7 @@ Our automated workflow requires zero technical manual setup:
 
 ## 🎁 Claim Your Free 5-Dashboard Proof of Concept (POC)
 
-As a certified **Microsoft ECIF (Engineering Customer Investment Fund) Partner**, Office Solution AI Labs offers enterprise clients a **(Free 5-Dashboard POC) [**https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview**]** with zero liability:
+As a certified Microsoft ECIF (Engineering Customer Investment Fund) Partner, Office Solution AI Labs offers enterprise clients a **[Free 5-Dashboard POC](https://marketplace.microsoft.com/en-us/product/officesolution1640276900203.pulse_convert_1?tab=Overview)** with zero liability:
 
 * ✅ Test on your real production Tableau workbooks (`.twb`/`.twbx`).
 * ✅ Test your actual data models and complex calculation logic.
